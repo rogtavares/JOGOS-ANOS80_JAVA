@@ -191,7 +191,7 @@ public class JogoCenario extends CenarioPadrao {
 
 			switch (Jogo.nivel) {
 			case 0:
-				// Modo Facil: Vai para qualquer lado
+				// Modo Facil: Vai para qualquer lado da tela
 				ast.setAngulo(rand.nextInt(360));
 				break;
 
@@ -204,7 +204,7 @@ public class JogoCenario extends CenarioPadrao {
 				break;
 
 			default:
-				// Modo Dificil: Todos vao em diracao a nave do jogador
+				// Modo Dificil: Todos vao em diracao a nave do jogador e rapido
 				float arco = (float) Math.atan2(nave.getPy() - ast.getPy(), nave.getPx() - ast.getPx());
 				float angulo = (float) Math.toDegrees(arco);
 				ast.setAngulo(angulo);
