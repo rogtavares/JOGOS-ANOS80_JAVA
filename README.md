@@ -6,10 +6,10 @@ Este  repositorio  somente recriar alguns grandes clássicos do mundo
 doentretenimento eletrônico, para  entender, de forma prática, a lógica
  envolvida em cada um deles com liguagem JAVA.Que nostalgia pura !
 
- 1- TELEJOGO ANOS 78
-  Lembra  do TeleJogo da Philco, o primeiro videogame lançado no
-  Brasil. A regra é simples, é para dois jogadores, então, ideia é usar
-teclado e mouse para controlar cada um. Futebol paredao .
+ 1- TELEJOGO 78
+  Lembra do TeleJogo da Philco, o primeiro videogame lançado no
+  Brasil. A regra é simples, é para dois jogadores, jogar futebol paredao 
+ então, ideia é usar teclado e mouse para controlar cada um. 
 
 
 
@@ -17,4 +17,7 @@ teclado e mouse para controlar cada um. Futebol paredao .
  jogo original,utilizando não somente imagens, mas também
  Sprites e Tiles.
 
-Usamos o Java para desenvolver os jogos
+Usamos e aprendendo o Java para desenvolver os jogos
+
+Alguns tópicos são complementos ou fazem parte do 
+livro: A lógica do jogo, publicado pela editora Casa do Código
