@@ -26,7 +26,7 @@ public class InicioCenario extends CenarioPadrao {
 		menuModo.addOpcoes("Normal", "Em casa");
 
 		menuVeloc = new Menu("Vel.");
-		menuVeloc.addOpcoes("Normal", "Rápido", "Lento");
+		menuVeloc.addOpcoes("Normal", "Rapido", "Lento");
 
 		Util.centraliza(bola, largura, altura);
 		Util.centraliza(menuModo, largura, altura);
