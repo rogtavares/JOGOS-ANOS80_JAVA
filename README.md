@@ -1,7 +1,4 @@
 # JOGOS ANOS 80 JAVA
-Repositório de como construir jogos classicos  anos 80 utilizando código
-em JAVA
-
 
 Este  repositorio dos (alguns) grandes jogos clássicos do mundo
 do entretenimento eletrônico, para  entender, de forma prática, a lógica
