@@ -3,7 +3,7 @@ Repositório de como construir jogos classicos  anos 80 utilizando código
 em JAVA
 
 
-Este  repositorio para recriar alguns grandes  jogos clássicos do mundo
+Este  repositorio dos (alguns) grandes jogos clássicos do mundo
 do entretenimento eletrônico, para  entender, de forma prática, a lógica
 e a liguagem JAVA.
 
@@ -26,9 +26,8 @@ Utilizando gráficos vetoriais, o jogo se diferenciava da maioria dos jogos
 da época (que eram pixelizados), tendo velocidade e nitidez, além de guardar
 as iniciais (ou 3 letras quaisquer) dos jogadores que pontuassem maiis...
 
-Estou aprendendo e treinando  linguagem Java, mesmo assim, 
-sao jogo simples. Não vou  abordar a criação de um jogo completo, 
-focando apenas na lógica do Java.
+Estou aprendendo e treinando Java, mesmo assim, 
+sao jogo simples,focando apenas na lógica.
 
 
 
