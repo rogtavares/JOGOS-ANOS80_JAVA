@@ -21,7 +21,7 @@ import br.com.mvbos.lgj.base.CenarioPadrao;
 public class Jogo extends JFrame {
 
 	/**
-	 * Marcus Vinicius Becker
+	 *
 	 */
 
 	private static final long serialVersionUID = 1L;
@@ -216,7 +216,7 @@ public class Jogo extends JFrame {
 
 	public void verificaTeclas() {
 		if (controleTecla[Tecla.BA.ordinal()]) {
-			// Pressionou espaço ou enter
+			// Pressionou espaï¿½o ou enter
 			if (cenario instanceof InicioCenario) {
 				cenario.descarregar();
 

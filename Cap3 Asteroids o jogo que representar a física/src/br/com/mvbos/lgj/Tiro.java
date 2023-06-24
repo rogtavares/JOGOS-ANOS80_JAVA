@@ -34,8 +34,8 @@ public class Tiro extends Elemento {
 		/*
 		 * Utilizando dois AffineTransform para guardamos a tranformacao e uma
 		 * para aplicarmos a tranformacao.
-		 * 
-		 * Pior pratica neste caso.
+
+		 * Pior pratica neste caso. preciso revisar , jul2023
 		 */
 
 		afAnterior = g.getTransform();
