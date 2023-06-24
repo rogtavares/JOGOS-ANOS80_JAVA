@@ -1,6 +1,6 @@
 # JOGOS ANOS 80 JAVA
-Repositório de como construir jogos anos 80 utilizando parte do código
-base em JAVA
+Repositório de como construir jogos classicos  anos 80 utilizando parte do código
+em JAVA
 
 
 Este  repositorio para recriar alguns grandes  jogos clássicos do mundo
@@ -21,13 +21,18 @@ teclado e mouse para controlar cada um.
  jogo original,utilizando não somente imagens, mas também
  Sprites e Tiles.
 
+3-Asteroids: o jogo que  representar a física
+Utilizando gráficos vetoriais, o jogo se diferenciava da maioria dos jogos
+da época (que eram pixelizados), tendo velocidade e nitidez, além de guardar
+as iniciais (ou 3 letras quaisquer) dos jogadores que pontuassem maiis...
+
 Estou aprendendo e treinando  linguagem Java, mesmo assim, 
-esse é um jogo simples. Não vou  abordar a criação de um jogo completo, 
-focando apenas na lógica principal.
+sao jogo simples. Não vou  abordar a criação de um jogo completo, 
+focando apenas na lógica do Java.
 
 
 
-\\a  verdadeira nostalgia
+\\verdadeira nostalgia
 
 Esse repositorio fazem parte do 
 livro: A lógica do jogo, publicado pela editora Casa do Código
