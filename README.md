@@ -1,11 +1,11 @@
 # JOGOS ANOS 80 JAVA
-Repositório de como construir jogos anos 80 utilizando parte do código
-base em JAVA
+Repositório de como construir jogos clássicos dos  anos 80 utilizando 
+parte do código em JAVA
 
 
-Este  repositorio para recriar alguns grandes  jogos clássicos do mundo
-do entretenimento eletrônico, para  entender, de forma prática, a lógica
-e a liguagem JAVA.
+Este  repositorio para  treinar JAVA e recriar alguns grandes  jogos 
+clássicos do mundo , para  entender, de forma prática, a lógica
+e a linguagem .
 
  1-  TENIS TELEJOGO 78
  Lembra do TeleJogo da Philco ? Foi um dos primeiros consoles de 
@@ -25,9 +25,14 @@ Estou aprendendo e treinando  linguagem Java, mesmo assim,
 esse é um jogo simples. Não vou  abordar a criação de um jogo completo, 
 focando apenas na lógica principal.
 
+3-Asteroids: o jogo que  representou a física
+Utilizando gráficos vetoriais, o jogo se diferenciava da maioria dos jogos
+da época (que eram pixelizados), tendo velocidade e nitidez, além de guardar
+as iniciais (ou 3 letras quaisquer) dos jogadores que pontuassem mais...
 
 
-\\a  verdadeira nostalgia
+\\verdadeira nostalgia
 
 Esse repositorio fazem parte do 
 livro: A lógica do jogo, publicado pela editora Casa do Código
+
