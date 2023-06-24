@@ -21,7 +21,7 @@ teclado e mouse para controlar cada um.
  jogo original,utilizando não somente imagens, mas também
  Sprites e Tiles.
 
-3-Asteroids: o jogo que  representar a física
+3-ASTEROIDS: o jogo que  representar a física
 Utilizando gráficos vetoriais, o jogo se diferenciava da maioria dos jogos
 da época (que eram pixelizados), tendo velocidade e nitidez, além de guardar
 as iniciais (ou 3 letras quaisquer) dos jogadores que pontuassem maiis...
