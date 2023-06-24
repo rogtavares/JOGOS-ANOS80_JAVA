@@ -26,8 +26,7 @@ Utilizando gráficos vetoriais, o jogo se diferenciava da maioria dos jogos
 da época (que eram pixelizados), tendo velocidade e nitidez, além de guardar
 as iniciais (ou 3 letras quaisquer) dos jogadores que pontuassem maiis...
 
-Estou aprendendo e treinando Java, mesmo assim, 
-sao jogo simples,focando apenas na lógica.
+Mesmo assim, são jogo simples,focando apenas na lógica.
 
 
 
