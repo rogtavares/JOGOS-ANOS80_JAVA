@@ -31,7 +31,7 @@ sao jogo simples,focando apenas na lógica.
 
 
 
-\\verdadeira nostalgia
+Verdadeira nostalgia,o clássico dos clássicos com Java
 
 Esse repositorio fazem parte do 
 livro: A lógica do jogo, publicado pela editora Casa do Código
