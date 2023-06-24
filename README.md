@@ -36,3 +36,7 @@ focando apenas na lógica do Java.
 
 Esse repositorio fazem parte do 
 livro: A lógica do jogo, publicado pela editora Casa do Código
+
+
+![PAC-MAN--DRAFTUM-RT7171](https://github.com/rogtavares/JOGOS-ANOS80_JAVA/assets/91990479/71ae1ef7-a435-4317-b1e3-b1febde58898)
+
