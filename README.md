@@ -1,5 +1,5 @@
 # JOGOS ANOS 80 JAVA
-Repositório de como construir jogos classicos  anos 80 utilizando parte do código
+Repositório de como construir jogos classicos  anos 80 utilizando código
 em JAVA
 
 
